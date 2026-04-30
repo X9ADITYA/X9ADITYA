@@ -1,6 +1,22 @@
 # 💫 About Me:
 Hi, I'm Aditya Darekar 👋<br><br>I’m a Full Stack Developer currently diving deep into Artificial Intelligence, with a strong focus on Machine Learning, Deep Learning, LLMs, and Generative AI. I enjoy building scalable applications and enhancing them with intelligent, AI-driven capabilities.
 
+💻 What I do:
+Build full-stack applications using modern technologies (MERN stack) with clean UI/UX
+Design and develop REST APIs, backend systems, and data-driven dashboards
+Develop AI-based solutions including Emotion Detection using Text (NLP)
+Work on advanced AI systems like a Personal Cognitive Twin and integrate ML/DL/LLMs into applications
+
+🤖 Currently Working On (AI Focus):
+
+Machine Learning & Deep Learning concepts and real-world projects
+Exploring Large Language Models (LLMs) and their applications
+Building applications using Generative AI
+Integrating AI models into full-stack applications
+
+🎯 Goal:
+To combine Full Stack Development + AI/ML + Generative AI to build smart, impactful, and scalable solutions
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-darekar-03492b2a6) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Darekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadarekar44@gmail.com) 
