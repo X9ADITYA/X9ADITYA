@@ -4,7 +4,7 @@ Hi, I'm Aditya Darekar 👋<br><br>I’m a Full Stack Developer currently diving
 💻 What I do:
 Build full-stack applications using modern technologies (MERN stack) with clean UI/UX
 Design and develop REST APIs, backend systems, and data-driven dashboards
-Develop AI-based solutions including Emotion Detection using Text (NLP)
+Develop AI-based solutions including Emotion Detection using Text (NLP),neural networks
 Work on advanced AI systems like a Personal Cognitive Twin and integrate ML/DL/LLMs into applications
 
 🤖 Currently Working On (AI Focus):
